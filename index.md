@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+### Gary's User Page
+![Image](https://i.imgur.com/hVcII7n.png)
 
-You can use the [editor on GitHub](https://github.com/garylli/garylli.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+*Welcome to my user page! I don't have much going on here right now.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is just a trial page to test out the markdown code for github:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+> This is a quote.
 ```
+this is
+some code
+```
+[Some good music :D](https://www.youtube.com/watch?v=95PKXi5HFuI)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Section link](https://github.com/garylli/lab1_cse110/blob/main/README.md#lab1_cse110)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/garylli/garylli.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Lists
+- Item 1
+- Item 2
+- Item 3
+  - Item 4
+  
+## Task Lists
+- [ ] Todo1
+- [ ] Todo2
+- [ ] Todo3
