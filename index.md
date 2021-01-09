@@ -3,7 +3,7 @@
 
 *Welcome to my user page! I don't have much going on here right now.*
 
-This is just a trial page to test out the markdown code for github:
+This is just a trial page to test out the markdown code for github. I do plan on updating this in the near future, but I have to get started on my personal project first.
 
 > This is a quote.
 
